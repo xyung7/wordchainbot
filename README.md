@@ -53,3 +53,6 @@ Create the required tables in your PostgreSQL database by running [init.sql](ini
 ### Deployment
 Install and update dependencies with `pip install -U -r requirements.txt`. \
 Run `python -m on9wordchainbot`.
+
+### deploy heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xyung7/on9wordchainbot)
