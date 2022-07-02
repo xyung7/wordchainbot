@@ -1,5 +1,5 @@
 {
- "name": "On9wordchain",
+ "name": "on9wordchain",
  "description": "Telegram Word Chain Game Bot",
  "keywords": [
    "telegram",
@@ -8,7 +8,7 @@
    "bot",
    "3"
   ],
-  "repository": "https://github.com/xyung7/On9wordchain",
+  "repository": "https://github.com/xyung7/on9wordchain",
   "env": {
          "TOKEN": {
          "description": "A Telegram bot token from @botfather.",
